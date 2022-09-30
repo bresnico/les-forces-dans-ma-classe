@@ -1,16 +1,114 @@
 [
   {
+    "objectID": "activites-pedagogiques.html",
+    "href": "activites-pedagogiques.html",
+    "title": "Activités pédagogiques",
+    "section": "",
+    "text": "Le design expérimental implique…"
+  },
+  {
+    "objectID": "activites-pedagogiques.html#semaine-1-9",
+    "href": "activites-pedagogiques.html#semaine-1-9",
+    "title": "Activités pédagogiques",
+    "section": "Semaine 1 / 9",
+    "text": "Semaine 1 / 9"
+  },
+  {
+    "objectID": "activites-pedagogiques.html#semaine-2-9",
+    "href": "activites-pedagogiques.html#semaine-2-9",
+    "title": "Activités pédagogiques",
+    "section": "Semaine 2 / 9",
+    "text": "Semaine 2 / 9"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "les-forces-dans-ma-classe",
+    "title": "Les Forces dans ma Classe",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Bienvenue sur le site d’information et de partage du projet de recherche “les forces dans ma classe”.\nCe mini-site reçoit et partage les informations propices à orienter l’expérimentation."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "A propos",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Ce mini-site est mis sur pied et maintenu par Nicolas Bressoud, membre du chEERS lab de l’UNIFR dans le cadre de son travail de doctorat sous la supervision d’Andrea C. Samson."
+  },
+  {
+    "objectID": "mesures.html#modalités",
+    "href": "mesures.html#modalités",
+    "title": "Mesures et récolte des données",
+    "section": "Modalités",
+    "text": "Modalités"
+  },
+  {
+    "objectID": "mesures.html#périodes-de-récolte-des-données",
+    "href": "mesures.html#périodes-de-récolte-des-données",
+    "title": "Mesures et récolte des données",
+    "section": "Périodes de récolte des données",
+    "text": "Périodes de récolte des données"
+  },
+  {
+    "objectID": "mesures.html#variables-mesurées-et-forme",
+    "href": "mesures.html#variables-mesurées-et-forme",
+    "title": "Mesures et récolte des données",
+    "section": "Variables mesurées et forme",
+    "text": "Variables mesurées et forme"
+  },
+  {
+    "objectID": "activites-pedagogiques.html#activités-du-groupe-expérimental",
+    "href": "activites-pedagogiques.html#activités-du-groupe-expérimental",
+    "title": "Activités pédagogiques",
+    "section": "Activités du groupe expérimental",
+    "text": "Activités du groupe expérimental\n\nSemaine 1 / 9\n\n\nSemaine 2 / 9"
+  },
+  {
+    "objectID": "index.html#contexte-du-projet-de-recherche",
+    "href": "index.html#contexte-du-projet-de-recherche",
+    "title": "Les Forces dans ma Classe",
+    "section": "Contexte du projet de recherche",
+    "text": "Contexte du projet de recherche"
+  },
+  {
+    "objectID": "index.html#intentions-question-de-recherche",
+    "href": "index.html#intentions-question-de-recherche",
+    "title": "Les Forces dans ma Classe",
+    "section": "Intentions (question de recherche)",
+    "text": "Intentions (question de recherche)"
+  },
+  {
+    "objectID": "index.html#partenaires-et-échantillon",
+    "href": "index.html#partenaires-et-échantillon",
+    "title": "Les Forces dans ma Classe",
+    "section": "Partenaires et échantillon",
+    "text": "Partenaires et échantillon"
+  },
+  {
+    "objectID": "index.html#aspects-éthiques",
+    "href": "index.html#aspects-éthiques",
+    "title": "Les Forces dans ma Classe",
+    "section": "Aspects éthiques",
+    "text": "Aspects éthiques"
+  },
+  {
+    "objectID": "index.html#durée-du-projet",
+    "href": "index.html#durée-du-projet",
+    "title": "Les Forces dans ma Classe",
+    "section": "Durée du projet",
+    "text": "Durée du projet"
+  },
+  {
+    "objectID": "index.html#personne-de-contact",
+    "href": "index.html#personne-de-contact",
+    "title": "Les Forces dans ma Classe",
+    "section": "Personne de contact",
+    "text": "Personne de contact\nNicolas Bressoud, membre du chEERS lab de l’UNIFR"
+  },
+  {
+    "objectID": "mesures.html#récolte-des-données",
+    "href": "mesures.html#récolte-des-données",
+    "title": "Mesures et récolte des données",
+    "section": "Récolte des données",
+    "text": "Récolte des données\n\nModalités\n\n\nPériodes de récolte des données\n\n\nVariables mesurées et forme"
   }
 ]

@@ -1,11 +1,22 @@
 ---
-title: "les-forces-dans-ma-classe"
+title: "Les Forces dans ma Classe"
+toc-title: "Sur cette page"
 ---
 
-This is a Quarto website.
+Bienvenue sur le site d'information et de partage du projet de recherche "les forces dans ma classe".
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Ce mini-site reçoit et partage les informations propices à orienter l'expérimentation.
 
-```{r}
-1 + 1
-```
+## Contexte du projet de recherche
+
+## Intentions (question de recherche)
+
+## Partenaires et échantillon
+
+## Aspects éthiques
+
+## Durée du projet
+
+## Personne de contact
+
+Nicolas Bressoud, membre du chEERS lab de l'UNIFR

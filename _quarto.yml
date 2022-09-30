@@ -2,18 +2,27 @@ project:
   type: website
 
 website:
-  title: "les-forces-dans-ma-classe"
+  title: "Les Forces dans ma Classe"
+  page-footer: "2022 - Un projet de Nicolas Bressoud - chEERSlab" 
+  favicon: "img/fav-cheers.png"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: activites-pedagogiques.qmd
+        text: Activités pédagogiques
+      - href: mesures.qmd
+        text: Mesures et récolte de données
+      - href: about.qmd
+        text: A propos
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
 
+margin-header: |
+  ![](img/logo-cheers.png)
 

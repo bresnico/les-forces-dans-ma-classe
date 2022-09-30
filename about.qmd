@@ -1,9 +1,6 @@
 ---
-title: "About"
+title: "A propos"
+toc-title: "Sur cette page"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Ce mini-site est mis sur pied et maintenu par Nicolas Bressoud, membre du chEERS lab de l'UNIFR dans le cadre de son travail de doctorat sous la supervision d'Andrea C. Samson.
