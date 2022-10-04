@@ -7,9 +7,15 @@ toc-title: "Sur cette page"
 
 ### Consentements 
 
+Les consentement de l'enfant, d'un·e représentant·e légal·e et de l'enseignant·e sont formellement récoltés. Pour ce faire : 
+
+- une formule de consentement est présentée aux familles
+
+- le consentement des enseignantes est obtenu lors de la présentation du questionnaire au premier temps de mesure.
+
 ### Open Science et Politique de transparence
 
-Les données anonymes et la préparation des publications sont mises à disposition sur la plateforme osf.io.
+Les données anonymes et la préparation des publications sont mises à disposition sur la plateforme [osf.io](https://osf.io/).
 
 ### Protection des données
 
