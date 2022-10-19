@@ -5,8 +5,8 @@ toc-title: "Sur cette page"
 
 Le design de la recherche implique : 
 
-- X classes d'enfants de 8 à 12 ans (groupe expérimental)
-- X classes d'enfants de 8 à 12 ans (groupe contrôle)
+- 6 (+1) classes d'enfants de 8 à 12 ans (groupe expérimental)
+- 4 classes d'enfants de 8 à 12 ans (groupe contrôle)
 
 ## Activités du groupe expérimental
 
@@ -28,7 +28,7 @@ Les enseignantes du groupe expérimental sont parties prenantes du projet. Elles
 
 - Présenter le vocabulaire des 24 forces
 - Donner des exemples de personnes dont les actions permettent de repérer des forces (Superman est modeste, etc)
-- Donner un exemple observé par l'enseignante en classe ("j'ai repéré l")
+- Donner un exemple observé par l'enseignante en classe ("j'ai repéré de la prudence dans notre classe, ...")
 
 #### Exemples d'activités concrètes tirées du matériel : 
 
@@ -53,16 +53,17 @@ environ 60 min en 1 ou plusieurs moments
   <summary>Cliquez pour voir les détails de la semaine 2</summary>
 #### Intention générale de la semaine :
 
-**intention**
+**Découvrir les 24 forces pour percevoir la diversité de nos ressources**
 
 #### Message-clé de la semaine : 
 
-*"Message."*
+*"Dans notre classe, il y a plein de forces qui émergent et nous aide à être bien ensemble et bien travailler."*
 
 #### Moyens pour y parvenir :
 
-- ...
-- ...
+- Donner un exemple observé par l'enseignante en classe en suscitant peu à peu la réflexion aux élèves ("j'ai repéré de la prudence pendant la pause. Savez-vous ce que j'ai vu ?")
+- Utiliser les FAB de **Fabrice Dini** : (1) l'action - (2) la force - (3) le bienfait ("quand tu as laissé parler ton camarade, tu as fait preuve de maîtrise de soi et ça a amené du calme en classe.")
+- Observer des situations "fictives" ou "passées" de vie de classe pour identifier les forces permettant de soutenir les solutions (résolution de conflits, aide au travail, ...)
 
 #### Exemples d'activités concrètes tirées du matériel : 
 
@@ -75,7 +76,7 @@ environ 60 min en 1 ou plusieurs moments
 
 #### Conseils : 
 
-- ...
+- Prenez encore une grande place dans cette semaine pour être exemplaire et faciliter le modelage chez les élèves.
 - ...
 
 </details>
