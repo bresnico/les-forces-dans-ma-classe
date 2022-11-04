@@ -125,21 +125,24 @@ environ 60 min en 1 ou plusieurs moments
   <summary>Cliquez pour voir les détails de la semaine 4</summary>
 #### Intention générale de la semaine :
 
-**intention**
+**Observer les forces des camarades de classe**
 
 #### Message-clé de la semaine : 
 
-*"Message."*
+*"Avec de l'entrainement, on voit que c'est de plus en plus facile d'observer des forces chez tous les camarades de la classe. On observe que certains ont des forces qui leur vont bien (les forces de signature)."*
 
 #### Moyens pour y parvenir :
 
-- ...
-- ...
+- S'assurer que les 24 forces sont connues (une familiarisation a été effectuée durant les 3 premières semaines)
+- Continuer à utiliser les FAB de Fabrice Dini : (1) l’action - (2) la force - (3) le bienfait (“quand tu as (1) attendu Julie, tu as fait preuve de (2) gentillesse et ça a (3) donné un chouette exemple de camaraderie aux copains.”)
+- **(nouveau)** Face à un problème ou une difficulté, on commence à se demander quel·le camarade de classe peut nous apporter une aide en fonction de ses forces ("Je pense que Pierre peut me conseiller pour me calmer au vestiaire car il faut souvent preuve de maîtrise de soi").
+- **(nouveau)** Faire un tour de classe où chaque élève est nommé avec ses **forces de signature**, c'est-à-dire les forces qui sont bien mises en avant chez lui ou elle ; attention, on s'assure que (1) tous les enfants soient concernés par l'activité et que (2) on nomme le même nombre de forces à chacun·e (par exemple 2).
 
 #### Exemples d'activités concrètes tirées du matériel : 
 
-- ...
-- ...
+- Choisir un·e camarade qu'on ne connait pas très bien et identifier ses forces dans diverses situations ; se faire aider par l'enseignante pour ne pas faire chou blanc.
+- Lire le conte et essayer d'identifier les forces des personnages principaux.
+- Décrire une situation où son voisin de banc a mis une force en action.
 
 #### Temps total à consacrer :
 
@@ -147,8 +150,10 @@ environ 60 min en 1 ou plusieurs moments
 
 #### Conseils : 
 
-- ...
-- ...
+- Soyez vigilantes dans l'entretien du vocabulaire des forces en le convoquant le plus naturellement possible.
+- Veillez à ces que les forces convoquées soient toujours en lien avec des actions concrètes ; on ne veut pas glisser vers des "qualités statiques" ; les forces sont toujours "en action".
+- Assurez-vous qu'aucun enfant ne soit laissé de côté dans l'exercice ; c'est ainsi que le climat de classe commence à être influencé favorablement.
+- Admettez, avec les élèves, qu'on a aussi des caractéristiques intéressantes qui semblent coller à notre identité (par exemple, "quand on pense au sens du pardon, on pense à Camille qui montre souvent cette force.")
 
 </details>
 
@@ -158,7 +163,7 @@ environ 60 min en 1 ou plusieurs moments
   <summary>Cliquez pour voir les détails de la semaine 5</summary>
 #### Intention générale de la semaine :
 
-**intention**
+**Identifier ses propres forces**
 
 #### Message-clé de la semaine : 
 
@@ -191,7 +196,7 @@ environ 60 min en 1 ou plusieurs moments
   <summary>Cliquez pour voir les détails de la semaine 6</summary>
 #### Intention générale de la semaine :
 
-**intention**
+**Identifier ses propres forces**
 
 #### Message-clé de la semaine : 
 
@@ -224,7 +229,7 @@ environ 60 min en 1 ou plusieurs moments
   <summary>Cliquez pour voir les détails de la semaine 7</summary>
 #### Intention générale de la semaine :
 
-**intention**
+**Utiliser les forces du groupe**
 
 #### Message-clé de la semaine : 
 
@@ -257,7 +262,7 @@ environ 60 min en 1 ou plusieurs moments
   <summary>Cliquez pour voir les détails de la semaine 8</summary>
 #### Intention générale de la semaine :
 
-**intention**
+**Utiliser les forces du groupe**
 
 #### Message-clé de la semaine : 
 
@@ -290,11 +295,11 @@ environ 60 min en 1 ou plusieurs moments
   <summary>Cliquez pour voir les détails de la semaine 9</summary>
 #### Intention générale de la semaine :
 
-**intention**
+**Célébrer les forces du groupe**
 
 #### Message-clé de la semaine : 
 
-*"Message."*
+*"Notre classe ne serait pas comme elle est sans les forces que chaque enfant apporte. Et ça, ça se fête."*
 
 #### Moyens pour y parvenir :
 
