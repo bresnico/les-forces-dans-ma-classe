@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.2.269">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -81,16 +81,20 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./activites-pedagogiques.html" aria-current="page">Activités pédagogiques</a>
+    <a class="nav-link active" href="./activites-pedagogiques.html" aria-current="page">
+ <span class="menu-text">Activités pédagogiques</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mesures.html">Mesures et récolte de données</a>
+    <a class="nav-link" href="./mesures.html">
+ <span class="menu-text">Mesures et récolte de données</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">A propos</a>
+    <a class="nav-link" href="./about.html">
+ <span class="menu-text">A propos</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -137,6 +141,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -340,20 +345,21 @@ Cliquez pour voir les détails de la semaine 5
 </section>
 <section id="message-clé-de-la-semaine-4" class="level4">
 <h4 class="anchored" data-anchor-id="message-clé-de-la-semaine-4">Message-clé de la semaine&nbsp;:</h4>
-<p><em>“Message.”</em></p>
+<p><em>“Les forces de signature sont notre fil rouge de la semaine. Chaque élève a reçu un feedback des autres sur une ou plusieurs de ses forces. Maintenant, on commence enfin à s’observer soi-même. On se rend peu à peu compte soi-même que, quand on fait quelque chose (1) bien, (2) avec plaisir et (3) souvent, il y a une force derrière.</em></p>
 </section>
 <section id="moyens-pour-y-parvenir-4" class="level4">
 <h4 class="anchored" data-anchor-id="moyens-pour-y-parvenir-4">Moyens pour y parvenir&nbsp;:</h4>
 <ul>
-<li>…</li>
-<li>…</li>
+<li>S’assurer que chaque élève a le même nombre de forces reconnues par le groupe-classe (par exemple, dans une classe, on reconnaît deux forces à chaque enfant, et personne n’a aucune force reconnue)</li>
+<li>Demander aux élèves d’évaluer s’ils se reconnaissent dans les forces attribuées par le groupe (c’est ok si un enfant ne se retrouve pas)</li>
+<li>Challenger les élèves petit-à-petit pour documenter quand et comment ils utilisent leurs forces de signatures (cela peut être les forces reconnues par le groupe ou bien d’autres forces) ; comme toujours, ce qui compte est de lier à une action.</li>
 </ul>
 </section>
 <section id="exemples-dactivités-concrètes-tirées-du-matériel-4" class="level4">
 <h4 class="anchored" data-anchor-id="exemples-dactivités-concrètes-tirées-du-matériel-4">Exemples d’activités concrètes tirées du matériel&nbsp;:</h4>
 <ul>
-<li>…</li>
-<li>…</li>
+<li>Durant une semaine, créer le carnet de bord de ses propres forces de caractère. Noter toutes les situations où une force a été utilisée. Faire un bilan en fin de semaine.</li>
+<li>Identifier les 4 forces qui me représentent le plus et les dessiner sur mon blason. Ecrire le nom de mes forces sous les dessins. Ou écrire mes 5 forces dans les pétales de la fleur, coller ma photo au centre.</li>
 </ul>
 </section>
 <section id="temps-total-à-consacrer-4" class="level4">
@@ -363,8 +369,9 @@ Cliquez pour voir les détails de la semaine 5
 <section id="conseils-4" class="level4">
 <h4 class="anchored" data-anchor-id="conseils-4">Conseils&nbsp;:</h4>
 <ul>
-<li>…</li>
-<li>…</li>
+<li>Soyez patientes pour permettre aux élève de <em>ne pas savoir</em> pendant un temps&nbsp;; montrez-leur votre confiance dans le temps qu’ils consacrent à s’autoévaluer et le fait qu’ils vont petit-à-petit réussir à voir leurs forces puisque tout le monde a les 24 forces de manière plus ou moins intense (comme un jardin de 24 fleurs où chaque fleur pousse à son rythme)</li>
+<li>Challengez vos élèves (sur la semaine, vous pourriez vous donner une mission de challenger 4-5 enfants par jour, par exemple) en leur disant, par exemple, “ah, je crois que je vois une force derrière ce que tu fais juste là. Et toi ?”</li>
+<li>Cette phase de prise de conscience de ses propres forces doit être appréhendée avec bienveillance ; montrez votre optimisme <span class="emoji" data-emoji="smiley">😃</span></li>
 </ul>
 </section></details>
 </section>
@@ -579,7 +586,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -615,24 +639,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
