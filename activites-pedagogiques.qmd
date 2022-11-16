@@ -1,6 +1,7 @@
 ---
 title: "Activités pédagogiques"
 toc-title: "Sur cette page"
+from: markdown+emoji
 ---
 
 Le design de la recherche implique : 
@@ -167,17 +168,18 @@ environ 60 min en 1 ou plusieurs moments
 
 #### Message-clé de la semaine : 
 
-*"Message."*
+*"Les forces de signature sont notre fil rouge de la semaine. Chaque élève a reçu un feedback des autres sur une ou plusieurs de ses forces. Maintenant, on commence enfin à s'observer soi-même. On se rend peu à peu compte soi-même que, quand on fait quelque chose (1) bien, (2) avec plaisir et (3) souvent, il y a une force derrière.*
 
 #### Moyens pour y parvenir :
 
-- ...
-- ...
+- S'assurer que chaque élève a le même nombre de forces reconnues par le groupe-classe (par exemple, dans une classe, on reconnaît deux forces à chaque enfant, et personne n'a aucune force reconnue)
+- Demander aux élèves d'évaluer s'ils se reconnaissent dans les forces attribuées par le groupe (c'est ok si un enfant ne se retrouve pas)
+- Challenger les élèves petit-à-petit pour documenter quand et comment ils utilisent leurs forces de signatures (cela peut être les forces reconnues par le groupe ou bien d'autres forces) ; comme toujours, ce qui compte est de lier à une action.
 
 #### Exemples d'activités concrètes tirées du matériel : 
 
-- ...
-- ...
+- Durant une semaine, créer le carnet de bord de ses propres forces de caractère. Noter toutes les situations où une force a été utilisée. Faire un bilan en fin de semaine.
+- Identifier les 4 forces qui me représentent le plus et les dessiner sur mon blason. Ecrire le nom de mes forces sous les dessins. Ou écrire mes 5 forces dans les pétales de la fleur, coller ma photo au centre.
 
 #### Temps total à consacrer :
 
@@ -185,8 +187,9 @@ environ 60 min en 1 ou plusieurs moments
 
 #### Conseils : 
 
-- ...
-- ...
+- Soyez patientes pour permettre aux élève de *ne pas savoir* pendant un temps ; montrez-leur votre confiance dans le temps qu'ils consacrent à s'autoévaluer et le fait qu'ils vont petit-à-petit réussir à voir leurs forces puisque tout le monde a les 24 forces de manière plus ou moins intense (comme un jardin de 24 fleurs où chaque fleur pousse à son rythme) 
+- Challengez vos élèves (sur la semaine, vous pourriez vous donner une mission de challenger 4-5 enfants par jour, par exemple) en leur disant, par exemple, "ah, je crois que je vois une force derrière ce que tu fais juste là. Et toi ?"
+- Cette phase de prise de conscience de ses propres forces doit être appréhendée avec bienveillance ; montrez votre optimisme :smiley:
 
 </details>
 
