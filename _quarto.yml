@@ -21,6 +21,7 @@ format:
     theme: lux
     css: styles.css
     toc: true
+    link-external-newwindow: true
 
 
 margin-header: |
