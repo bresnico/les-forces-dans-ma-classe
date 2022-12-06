@@ -113,7 +113,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Sur cette page</h2>
    
   <ul>
-  <li><a href="#activités-du-groupe-expérimental" id="toc-activités-du-groupe-expérimental" class="nav-link active" data-scroll-target="#activités-du-groupe-expérimental">Activités du groupe expérimental</a>
+  <li><a href="#matériel-à-disposition" id="toc-matériel-à-disposition" class="nav-link active" data-scroll-target="#matériel-à-disposition">Matériel à disposition</a>
+  <ul class="collapse">
+  <li><a href="#téléchargement-en-accès-limité" id="toc-téléchargement-en-accès-limité" class="nav-link" data-scroll-target="#téléchargement-en-accès-limité">Téléchargement en accès limité</a></li>
+  </ul></li>
+  <li><a href="#activités-du-groupe-expérimental" id="toc-activités-du-groupe-expérimental" class="nav-link" data-scroll-target="#activités-du-groupe-expérimental">Activités du groupe expérimental</a>
   <ul class="collapse">
   <li><a href="#semaine-1-9---24-au-28-octobre-2022" id="toc-semaine-1-9---24-au-28-octobre-2022" class="nav-link" data-scroll-target="#semaine-1-9---24-au-28-octobre-2022">Semaine 1 / 9 - 24 au 28 octobre 2022</a></li>
   <li><a href="#semaine-2-9---31-au-4-novembre-2022" id="toc-semaine-2-9---31-au-4-novembre-2022" class="nav-link" data-scroll-target="#semaine-2-9---31-au-4-novembre-2022">Semaine 2 / 9 - 31 au 4 novembre 2022</a></li>
@@ -153,6 +157,16 @@ ul.task-list li input[type="checkbox"] {
 <li>6 classes d’enfants de 8 à 12 ans (groupe expérimental)</li>
 <li>4 classes d’enfants de 8 à 12 ans (groupe contrôle)</li>
 </ul>
+<section id="matériel-à-disposition" class="level2">
+<h2 class="anchored" data-anchor-id="matériel-à-disposition">Matériel à disposition</h2>
+<p>Le matériel qui peut être convoqué pour nourrir les activités ci-dessous s’appelle <em>A chacun ses force (et forts ensemble)</em>. Développé notammen par Anaïs Blot, Laetitia Mascolo, Laure Coutaz Bressoud et Nicolas Bressoud, il cadre la progression pédagogique attendue.</p>
+<section id="téléchargement-en-accès-limité" class="level3">
+<h3 class="anchored" data-anchor-id="téléchargement-en-accès-limité">Téléchargement en accès limité</h3>
+<ul>
+<li><a href="https://drive.switch.ch/index.php/s/DkpLRa5PY1PPqSZ">Poster, plateau de jeu, cartes d’activité, cartes des forces, livret de l’élève, guide de l’enseignant·e.</a></li>
+</ul>
+</section>
+</section>
 <section id="activités-du-groupe-expérimental" class="level2">
 <h2 class="anchored" data-anchor-id="activités-du-groupe-expérimental">Activités du groupe expérimental</h2>
 <p>Les enseignantes du groupe expérimental sont parties prenantes du projet. Elles ont suivi une formation continue, accepté de participer au projet, et sont au contact des élèves qui bénéficient du programme.</p>
@@ -681,6 +695,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp(/https:\/\/bresnico\.github\.io\/les-forces-dans-ma-classe\//);
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
