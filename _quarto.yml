@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Les Forces dans ma Classe"
-  page-footer: "2022 - Un projet de Nicolas Bressoud - chEERSlab" 
+  page-footer: "2022/2023 - Un projet de Nicolas Bressoud - chEERSlab" 
   favicon: "img/fav-cheers.png"
   navbar:
     left:
